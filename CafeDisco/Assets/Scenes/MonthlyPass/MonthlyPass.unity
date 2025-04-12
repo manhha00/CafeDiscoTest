@@ -18031,7 +18031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 748558019}
   m_Layer: 5
-  m_Name: Timeline_Demop
+  m_Name: Timeline_Demo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29728,6 +29728,8 @@ GameObject:
   - component: {fileID: 1350040844}
   - component: {fileID: 1350040846}
   - component: {fileID: 1350040845}
+  - component: {fileID: 1350040847}
+  - component: {fileID: 1350040848}
   m_Layer: 5
   m_Name: ProgressBar_2
   m_TagString: Untagged
@@ -29793,6 +29795,40 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1350040843}
   m_CullTransparentMesh: 1
+--- !u!225 &1350040847
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350040843}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
+--- !u!95 &1350040848
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350040843}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!95 &1367327012 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 2888835395655884535, guid: 5c4bc6713c5848448b347072e20434f9, type: 3}
@@ -35187,6 +35223,8 @@ PlayableDirector:
     value: {fileID: 138526072}
   - key: {fileID: 9014322458757164395, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
     value: {fileID: 736269158}
+  - key: {fileID: -5761152814886077428, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 1350040848}
   m_ExposedReferences:
     m_References:
     - 709df02d6ccdf8a4ba1434e035f77418: {fileID: 569720696}
@@ -35666,7 +35704,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1617664114
 RectTransform:
   m_ObjectHideFlags: 0
