@@ -104,6 +104,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1939362218912159167, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d37c4afca8784ce9ab899810e29aa9c, type: 2}
     - target: {fileID: 2152034371377643129, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
       propertyPath: m_Name
       value: Button_Tier_Free
@@ -113,11 +117,23 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 69f24e6761d56f44b8003e8c8542aa56, type: 3}
     - target: {fileID: 3515171789679159100, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3515171789679159100, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
       propertyPath: m_SortingLayer
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4428330930529831655, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4428330930529831655, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
       propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481412669215932147, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4481412669215932147, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
@@ -128,12 +144,28 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6270594188821268929, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6289776719849830289, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 3845980d47ea0e641b25986c2e0d14d4, type: 3}
+    - target: {fileID: 6998107381189609589, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062603857873062293, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7062603857873062293, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
       propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7832745815868044386, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7832745815868044386, guid: 4d4d61f3e470e584fb8eec190bbaa6f0, type: 3}

@@ -90,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8177504710635977767, guid: 5c4bc6713c5848448b347072e20434f9, type: 3}
       propertyPath: m_Name
-      value: Tier_3
+      value: Tier_3_Grp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
