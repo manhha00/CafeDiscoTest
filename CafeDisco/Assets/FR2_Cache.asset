@@ -27,7 +27,20 @@ MonoBehaviour:
     m_fileInfoReadTS: 1744570468
     m_fileWriteTS: 1744570468
     m_cachefileWriteTS: 1744570468
-    refreshStamp: 193
+    refreshStamp: 195
+    UseGUIDsList: []
+  - guid: 2eb2676a6fe0f944ab41df7d399e8db6
+    type: 9
+    m_fileInfoHash: 65164.png
+    m_assetbundle: 
+    m_addressable: 
+    m_atlas: 
+    m_fileSize: 65164
+    m_assetChangeTS: 0
+    m_fileInfoReadTS: 1744570563
+    m_fileWriteTS: 1744570563
+    m_cachefileWriteTS: 1744570563
+    refreshStamp: 195
     UseGUIDsList: []
   setting:
     alternateColor: 1
