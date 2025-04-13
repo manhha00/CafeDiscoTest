@@ -18673,6 +18673,7 @@ RectTransform:
   m_Children:
   - {fileID: 699871268}
   - {fileID: 1706862821}
+  - {fileID: 968448419}
   m_Father: {fileID: 1182086576}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -19291,6 +19292,93 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7751255359209388064, guid: 8c9f8f27f392d804eaab9bbb6aa9a169, type: 3}
   m_PrefabInstance: {fileID: 924541994}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &968448418
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 968448419}
+  - component: {fileID: 968448420}
+  m_Layer: 5
+  m_Name: KeyProgressBart_KeyIncrease_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &968448419
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 968448418}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 742745065}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!320 &968448420
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 968448418}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 998105ac6266be2428b22362b313e581, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 0
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -8509853865271550301, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 1258576296}
+  - key: {fileID: 3405712138661078963, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 459310423}
+  - key: {fileID: 518326739267630698, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 138526072}
+  - key: {fileID: 9014322458757164395, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 736269158}
+  - key: {fileID: -5761152814886077428, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 1350040848}
+  - key: {fileID: 2849175965897874930, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 1821350940}
+  - key: {fileID: 2355910925165068648, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 669324725}
+  - key: {fileID: 334505537639447563, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 1075940957}
+  - key: {fileID: -956759257118736000, guid: 3174ce2574e8e684787849a2a8359b40, type: 2}
+    value: {fileID: 513383042}
+  - key: {fileID: -6439302588191265908, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 1258576296}
+  - key: {fileID: 2045036403983327769, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 138526072}
+  - key: {fileID: -1267751256429882387, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 669324725}
+  - key: {fileID: -411388618093021080, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 1075940957}
+  - key: {fileID: 5081069788782278013, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 669324727}
+  - key: {fileID: 3448372366432549765, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 736269158}
+  m_ExposedReferences:
+    m_References:
+    - acc375292c2c78d428197227b72357c2: {fileID: 569720696}
+    - 709df02d6ccdf8a4ba1434e035f77418: {fileID: 569720696}
+    - 4aecdbc5690509b4f92863c613d4fd02: {fileID: 1335175943}
+    - 92b1be3c3990f3a4c951fc6165b54ac0: {fileID: 1335175943}
 --- !u!1 &995727919
 GameObject:
   m_ObjectHideFlags: 0
@@ -35858,7 +35946,7 @@ GameObject:
   - component: {fileID: 1706862821}
   - component: {fileID: 1706862822}
   m_Layer: 5
-  m_Name: KeyProgressBart_KeyIncrease
+  m_Name: KeyProgressBart_KeyIncrease_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35924,6 +36012,10 @@ PlayableDirector:
     value: {fileID: 669324725}
   - key: {fileID: -411388618093021080, guid: 998105ac6266be2428b22362b313e581, type: 2}
     value: {fileID: 1075940957}
+  - key: {fileID: 5081069788782278013, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 669324727}
+  - key: {fileID: 3448372366432549765, guid: 998105ac6266be2428b22362b313e581, type: 2}
+    value: {fileID: 736269158}
   m_ExposedReferences:
     m_References:
     - acc375292c2c78d428197227b72357c2: {fileID: 569720696}
