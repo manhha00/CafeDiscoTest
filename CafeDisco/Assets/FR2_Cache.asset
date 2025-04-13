@@ -15,7 +15,20 @@ MonoBehaviour:
   _autoRefresh: 0
   _curCacheVersion: 2.1
   _disabled: 0
-  AssetList: []
+  AssetList:
+  - guid: faa534e7dfb93d145a82ddcaf6043b72
+    type: 9
+    m_fileInfoHash: 65164.png
+    m_assetbundle: 
+    m_addressable: 
+    m_atlas: 
+    m_fileSize: 65164
+    m_assetChangeTS: 0
+    m_fileInfoReadTS: 1744570468
+    m_fileWriteTS: 1744570468
+    m_cachefileWriteTS: 1744570468
+    refreshStamp: 193
+    UseGUIDsList: []
   setting:
     alternateColor: 1
     excludeTypes: 0
