@@ -22,7 +22,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.16666666666666607
     m_ClipIn: 0
     m_Asset: {fileID: -7038276902892216002}
     m_Duration: 0.16666666666666666
@@ -88,7 +88,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.16666666666666607
     m_DisplayName: Frame_Grp_3
   m_Markers:
     m_Objects: []
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.16666666666666607
     m_ClipIn: 0
     m_Asset: {fileID: -2437188463606330037}
     m_Duration: 0.16666666666666666
@@ -318,7 +318,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.16666666666666607
     m_DisplayName: Bg_Highlight
   m_Markers:
     m_Objects: []
@@ -428,7 +428,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.16666666666666607
     m_ClipIn: 0
     m_Asset: {fileID: -4941585815536810293}
     m_Duration: 0.16666666666666666
@@ -494,7 +494,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.16666666666666607
     m_DisplayName: Frame_Grp_2
   m_Markers:
     m_Objects: []
@@ -847,7 +847,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.16666666666666607
     m_ClipIn: 0
     m_Asset: {fileID: -4703519887660376565}
     m_Duration: 0.16666666666666666
@@ -913,7 +913,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.16666666666666607
     m_DisplayName: Frame_Grp_1
   m_Markers:
     m_Objects: []
@@ -957,7 +957,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.16666666666666607
     m_ClipIn: 0
     m_Asset: {fileID: -3955661710400828359}
     m_Duration: 0.3333333333333333
@@ -1023,7 +1023,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.16666666666666607
     m_DisplayName: Fx_Ring_Mask
   m_Markers:
     m_Objects: []

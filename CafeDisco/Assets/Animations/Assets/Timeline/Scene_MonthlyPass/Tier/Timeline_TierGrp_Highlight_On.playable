@@ -182,7 +182,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.25
     m_ClipIn: 0
     m_Asset: {fileID: 8552674144105221338}
     m_Duration: 0.5
@@ -248,7 +248,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.25
     m_DisplayName: Bg_Highlighter
   m_Markers:
     m_Objects: []
@@ -608,7 +608,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.25
     m_ClipIn: 0
     m_Asset: {fileID: -4412260194572231887}
     m_Duration: 0.5
@@ -674,7 +674,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.25
     m_DisplayName: Frame_Grp_2
   m_Markers:
     m_Objects: []
@@ -718,7 +718,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.25
     m_ClipIn: 0
     m_Asset: {fileID: -7797041266238152400}
     m_Duration: 1
@@ -784,7 +784,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.25
     m_DisplayName: Frame_Grp_3
   m_Markers:
     m_Objects: []
@@ -966,7 +966,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.25
     m_ClipIn: 0
     m_Asset: {fileID: 3368207806938940945}
     m_Duration: 1
@@ -1032,7 +1032,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.25
     m_DisplayName: Fx_Ring_Mask
   m_Markers:
     m_Objects: []
@@ -1076,7 +1076,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.25
     m_ClipIn: 0
     m_Asset: {fileID: 7349448097555497403}
     m_Duration: 1
@@ -1142,7 +1142,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 0
+    m_PreExtrapolationTime: 0.25
     m_DisplayName: Frame_Grp_1
   m_Markers:
     m_Objects: []
