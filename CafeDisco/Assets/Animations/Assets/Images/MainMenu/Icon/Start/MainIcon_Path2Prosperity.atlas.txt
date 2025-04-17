@@ -1,0 +1,45 @@
+MainIcon_Path2Prosperity.png
+size:1024,512
+filter:Linear,Linear
+Frame 634
+bounds:2,254,256,256
+Group 690
+bounds:333,111,60,47
+rotate:90
+Group 696
+bounds:216,18,61,51
+rotate:90
+Group 697
+bounds:255,95,76,76
+Group 698
+bounds:469,257,52,41
+rotate:90
+Group 701
+bounds:400,245,64,67
+rotate:90
+Group 721
+bounds:260,311,168,98
+Group 731
+bounds:885,435,118,75
+Group 732
+bounds:640,406,122,104
+Group 733
+bounds:255,173,115,72
+Group 734
+bounds:2,2,250,212
+rotate:90
+Group 735
+bounds:216,81,171,37
+rotate:90
+Group 736
+bounds:430,311,98,70
+rotate:90
+Rectangle 10070
+bounds:260,411,243,99
+Start
+bounds:260,247,138,62
+Vector 504
+bounds:505,416,133,94
+Vector 506
+bounds:764,423,119,87
+offsets:0,1,119,90
