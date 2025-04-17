@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3a213e381d3f06f4aaa96bf772b0cf3e
+guid: 2f305bbfe7915f141a5b5f0e94306cbe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2204949203950683604
-    second: Img_ProgressBar_0_1_0
+      213: 5715689466793849666
+    second: Icon_BuyMore_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 100, y: 0, z: 100, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Img_ProgressBar_0_1_0
+      name: Icon_BuyMore_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 522
-        height: 122
+        x: 0
+        y: 0
+        width: 82
+        height: 80
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d5c2416e9d899e10800000000000000
-      internalID: 2204949203950683604
+      spriteID: 24370ba7945325f40800000000000000
+      internalID: 5715689466793849666
       vertices: []
       indices: 
       edges: []
@@ -139,7 +139,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Img_ProgressBar_0_1_0: 2204949203950683604
+      Icon_BuyMore_0: 5715689466793849666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
