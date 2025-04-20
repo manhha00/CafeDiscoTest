@@ -1,0 +1,24 @@
+MainIcon_MonthlyPassIcon.png
+size:1024,512
+filter:Linear,Linear
+Img4
+bounds:440,292,178,179
+Layer 1
+bounds:198,93,98,103
+Layer 10
+bounds:2,2,194,194
+Layer 2
+bounds:800,221,250,102
+rotate:90
+Layer 3
+bounds:274,272,164,199
+Layer 4
+bounds:620,292,178,179
+Layer 7
+bounds:904,215,125,92
+rotate:90
+Layer 8
+bounds:904,342,129,96
+rotate:90
+Layer 9
+bounds:2,198,270,273

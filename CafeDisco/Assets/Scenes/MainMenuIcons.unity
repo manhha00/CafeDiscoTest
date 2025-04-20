@@ -6757,7 +6757,6 @@ GameObject:
   - component: {fileID: 412420104}
   - component: {fileID: 412420103}
   - component: {fileID: 412420105}
-  - component: {fileID: 412420106}
   m_Layer: 5
   m_Name: ProgressBar_Btn
   m_TagString: Untagged
@@ -6878,28 +6877,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
---- !u!95 &412420106
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 412420101}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3aa20ca08e45e724db658a21a4d6f337, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &413927953
 GameObject:
   m_ObjectHideFlags: 0
@@ -11861,7 +11838,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 22h
+  m_text: 28d12h
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8fa0a2cbab59369429d29688f6e07a9a, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 95b278a9b2d17f5439b740619ee4910a, type: 2}
@@ -27849,7 +27826,7 @@ GameObject:
   - component: {fileID: 777652332}
   - component: {fileID: 777652331}
   m_Layer: 0
-  m_Name: IconMark (1)
+  m_Name: IconMark
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28303,7 +28280,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 29.795}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.4, y: 83.7}
+  m_AnchoredPosition: {x: 16.400002, y: 83.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &913306257
@@ -34943,7 +34920,7 @@ PlayableDirector:
   - key: {fileID: 1737856211748427371, guid: 419143ee58248e24b8a3853178128950, type: 2}
     value: {fileID: 971911984}
   - key: {fileID: 2305109914708825920, guid: 419143ee58248e24b8a3853178128950, type: 2}
-    value: {fileID: 412420106}
+    value: {fileID: 0}
   - key: {fileID: 9027756643828484167, guid: 419143ee58248e24b8a3853178128950, type: 2}
     value: {fileID: 1494191043}
   - key: {fileID: 9014322458757164395, guid: 419143ee58248e24b8a3853178128950, type: 2}
@@ -52110,7 +52087,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  skeletonDataAsset: {fileID: 11400000, guid: 1782a7257260f7342a4e524d2ba9a246, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 0d661b3a610f52349b9c7812bfddf3b0, type: 2}
   additiveMaterial: {fileID: 2100000, guid: 2e8245019faeb8c43b75f9ca3ac8ee34, type: 2}
   multiplyMaterial: {fileID: 2100000, guid: e74a1f8978a7da348a721508d0d58834, type: 2}
   screenMaterial: {fileID: 2100000, guid: bab24c479f34eec45be6ea8595891569, type: 2}

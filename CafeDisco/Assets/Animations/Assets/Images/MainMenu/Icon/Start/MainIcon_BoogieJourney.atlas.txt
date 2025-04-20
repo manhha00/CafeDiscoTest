@@ -1,31 +1,29 @@
 MainIcon_BoogieJourney.png
-size:512,512
+size:1024,512
 filter:Linear,Linear
 Layer 1
-bounds:2,241,265,264
+bounds:2,216,265,264
 Layer 10
-bounds:363,4,107,44
+bounds:405,225,108,59
+rotate:90
 Layer 11
-bounds:98,28,108,59
-rotate:90
+bounds:500,318,108,59
 Layer 2
-bounds:363,50,127,94
+bounds:750,386,127,94
 Layer 3
-bounds:2,138,248,101
+bounds:500,379,248,101
 Layer 4
-bounds:2,9,127,94
-rotate:90
+bounds:879,386,127,94
 Layer 5
-bounds:269,293,225,212
+bounds:2,2,225,212
 Layer 6
-bounds:269,146,229,145
+bounds:269,335,229,145
 Layer 7
-bounds:159,78,61,58
+bounds:610,319,61,58
 Layer 8
-bounds:472,2,46,32
+bounds:466,287,46,32
 offsets:1,0,47,32
 rotate:90
 disco
-bounds:252,10,134,109
+bounds:269,224,134,109
 offsets:5,4,144,117
-rotate:90
