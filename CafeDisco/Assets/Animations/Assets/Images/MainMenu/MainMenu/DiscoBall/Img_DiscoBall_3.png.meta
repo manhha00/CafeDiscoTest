@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: f8ca0a26ac1f07b499d0205b49940b55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1819107610970479861
+    second: Img_DiscoBall_3_0
+  - first:
+      213: 1184942791401546621
+    second: Img_DiscoBall_3_1
+  - first:
+      213: -3065544980969849017
+    second: Img_DiscoBall_3_2
+  - first:
+      213: 3907634277923641034
+    second: Img_DiscoBall_3_3
+  - first:
+      213: 4097858541052428192
+    second: Img_DiscoBall_3_4
+  - first:
+      213: 1295213885626664962
+    second: Img_DiscoBall_3_5
+  - first:
+      213: -9214952012430950520
+    second: Img_DiscoBall_3_6
+  - first:
+      213: -1420984553664448210
+    second: Img_DiscoBall_3_7
+  - first:
+      213: -6756397372440498678
+    second: Img_DiscoBall_3_8
+  - first:
+      213: -9086574153186746502
+    second: Img_DiscoBall_3_9
+  - first:
+      213: 9095354155481999763
+    second: Img_DiscoBall_3_10
+  - first:
+      213: -5475585731902122084
+    second: Img_DiscoBall_3_11
+  - first:
+      213: -9182697781562383064
+    second: Img_DiscoBall_3_12
+  - first:
+      213: -2538447526577139655
+    second: Img_DiscoBall_3_13
+  - first:
+      213: -3068542814390106440
+    second: Img_DiscoBall_3_14
+  - first:
+      213: 6227867581243712670
+    second: Img_DiscoBall_3_15
+  - first:
+      213: 2029227245136977324
+    second: Img_DiscoBall_3_16
+  - first:
+      213: -2651552071993335010
+    second: Img_DiscoBall_3_17
+  - first:
+      213: -5054571773802589509
+    second: Img_DiscoBall_3_18
+  - first:
+      213: -8004752486825928551
+    second: Img_DiscoBall_3_19
+  - first:
+      213: 8689166166105911103
+    second: Img_DiscoBall_3_20
+  - first:
+      213: 7786234005670040616
+    second: Img_DiscoBall_3_21
+  - first:
+      213: -2228459026791772878
+    second: Img_DiscoBall_3_22
+  - first:
+      213: 832087260767446281
+    second: Img_DiscoBall_3_23
+  - first:
+      213: -1364634286572117174
+    second: Img_DiscoBall_3_24
+  - first:
+      213: 7197399968881307001
+    second: Img_DiscoBall_3_25
+  - first:
+      213: -2458885477788554919
+    second: Img_DiscoBall_3_26
+  - first:
+      213: 4395455335752188679
+    second: Img_DiscoBall_3_27
+  - first:
+      213: 4920340906423538151
+    second: Img_DiscoBall_3_28
+  - first:
+      213: -643353151469391705
+    second: Img_DiscoBall_3_29
+  - first:
+      213: -10965208698674362
+    second: Img_DiscoBall_3_30
+  - first:
+      213: -3309942042202493612
+    second: Img_DiscoBall_3_31
+  - first:
+      213: 4743215583983775458
+    second: Img_DiscoBall_3_32
+  - first:
+      213: 5917190716483194129
+    second: Img_DiscoBall_3_33
+  - first:
+      213: -7670737010171437271
+    second: Img_DiscoBall_3_34
+  - first:
+      213: -1615831983594612541
+    second: Img_DiscoBall_3_35
+  - first:
+      213: 1025507764956674700
+    second: Img_DiscoBall_3_36
+  - first:
+      213: 8196343947178551932
+    second: Img_DiscoBall_3_37
+  - first:
+      213: 984904023179128906
+    second: Img_DiscoBall_3_38
+  - first:
+      213: 3917793352776008072
+    second: Img_DiscoBall_3_39
+  - first:
+      213: 7103209717402047774
+    second: Img_DiscoBall_3_40
+  - first:
+      213: 1926309442522594768
+    second: Img_DiscoBall_3_41
+  - first:
+      213: 4427946782972303317
+    second: Img_DiscoBall_3_42
+  - first:
+      213: 9189300057512360971
+    second: Img_DiscoBall_3_43
+  - first:
+      213: 3886915292789756999
+    second: Img_DiscoBall_3_44
+  - first:
+      213: -5323126620218257011
+    second: Img_DiscoBall_3_45
+  - first:
+      213: -3329323478955748866
+    second: Img_DiscoBall_3_46
+  - first:
+      213: 353667256565533829
+    second: Img_DiscoBall_3_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1771
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcda10fbb4ce3910800000000000000
+      internalID: 1819107610970479861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1771
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7326a0d033c17010800000000000000
+      internalID: 1184942791401546621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1771
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7f4ee41ff475d0800000000000000
+      internalID: -3065544980969849017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1771
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac657c71ca4ba3630800000000000000
+      internalID: 3907634277923641034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_4
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1771
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0affa37b1a48ed830800000000000000
+      internalID: 4097858541052428192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_5
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1771
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2084ee8aa2689f110800000000000000
+      internalID: 1295213885626664962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_6
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1770
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f38c4b7f9ed1080800000000000000
+      internalID: -9214952012430950520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1478
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29738fb316a74ce0800000000000000
+      internalID: -1420984553664448210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1478
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2d4ef2647c32a0800000000000000
+      internalID: -6756397372440498678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1478
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fde0e43f006e180800000000000000
+      internalID: -9086574153186746502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_10
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1479
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a0e74a60393e70800000000000000
+      internalID: 9095354155481999763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_11
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1479
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d6c8a9cfc204b0800000000000000
+      internalID: -5475585731902122084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_12
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1479
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e43a0501809080800000000000000
+      internalID: -9182697781562383064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_13
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1479
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93096618c6f95ccd0800000000000000
+      internalID: -2538447526577139655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1185
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6433271985a65d0800000000000000
+      internalID: -3068542814390106440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1185
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e3388194dd6650800000000000000
+      internalID: 6227867581243712670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1184
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1fea9d63492c10800000000000000
+      internalID: 2029227245136977324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_17
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1184
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e265607bc33bd0800000000000000
+      internalID: -2651552071993335010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1184
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2d7c280cd8ad9b0800000000000000
+      internalID: -5054571773802589509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_19
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1185
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d0d3360869e090800000000000000
+      internalID: -8004752486825928551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_20
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1185
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fe515479e169870800000000000000
+      internalID: 8689166166105911103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 893
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824970e23924e0c60800000000000000
+      internalID: 7786234005670040616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 893
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d409f625ce211e0800000000000000
+      internalID: -2228459026791772878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 893
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905eb2084fa2c8b00800000000000000
+      internalID: 832087260767446281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_24
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 893
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ec84b858df0de0800000000000000
+      internalID: -1364634286572117174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_25
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 892
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97de393632d42e360800000000000000
+      internalID: 7197399968881307001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_26
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 892
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959eb098fa840edd0800000000000000
+      internalID: -2458885477788554919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_27
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 892
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ca99f65bcffc30800000000000000
+      internalID: 4395455335752188679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 601
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d23d3cff884440800000000000000
+      internalID: 4920340906423538151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 601
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f985a7b95217f0800000000000000
+      internalID: -643353151469391705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 601
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643a0a6633b09dff0800000000000000
+      internalID: -10965208698674362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_31
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 601
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45da36bdf39b012d0800000000000000
+      internalID: -3309942042202493612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_32
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 601
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2378617943d140800000000000000
+      internalID: 4743215583983775458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_33
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 601
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d48342b951e1250800000000000000
+      internalID: 5917190716483194129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_34
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 600
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f1a4f94511c8590800000000000000
+      internalID: -7670737010171437271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 308
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d0293f596399e0800000000000000
+      internalID: -1615831983594612541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 308
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab5acf0e55b3e00800000000000000
+      internalID: 1025507764956674700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 308
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2084d4634fb170800000000000000
+      internalID: 8196343947178551932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_38
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 309
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40f177adf41bad00800000000000000
+      internalID: 984904023179128906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_39
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 309
+        width: 261
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c9970c4cce5630800000000000000
+      internalID: 3917793352776008072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_40
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 309
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e151ad28a9ba39260800000000000000
+      internalID: 7103209717402047774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_41
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 309
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd3a016b30abba10800000000000000
+      internalID: 1926309442522594768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7d56b832a337d30800000000000000
+      internalID: 4427946782972303317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 15
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c308e17b3f68f70800000000000000
+      internalID: 9189300057512360971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74454c27dd811f530800000000000000
+      internalID: 3886915292789756999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_45
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 14
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d811773ca847026b0800000000000000
+      internalID: -5323126620218257011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_46
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 14
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef199767feddbc1d0800000000000000
+      internalID: -3329323478955748866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_DiscoBall_3_47
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 14
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c864cfe7a78e400800000000000000
+      internalID: 353667256565533829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Img_DiscoBall_3_0: 1819107610970479861
+      Img_DiscoBall_3_1: 1184942791401546621
+      Img_DiscoBall_3_10: 9095354155481999763
+      Img_DiscoBall_3_11: -5475585731902122084
+      Img_DiscoBall_3_12: -9182697781562383064
+      Img_DiscoBall_3_13: -2538447526577139655
+      Img_DiscoBall_3_14: -3068542814390106440
+      Img_DiscoBall_3_15: 6227867581243712670
+      Img_DiscoBall_3_16: 2029227245136977324
+      Img_DiscoBall_3_17: -2651552071993335010
+      Img_DiscoBall_3_18: -5054571773802589509
+      Img_DiscoBall_3_19: -8004752486825928551
+      Img_DiscoBall_3_2: -3065544980969849017
+      Img_DiscoBall_3_20: 8689166166105911103
+      Img_DiscoBall_3_21: 7786234005670040616
+      Img_DiscoBall_3_22: -2228459026791772878
+      Img_DiscoBall_3_23: 832087260767446281
+      Img_DiscoBall_3_24: -1364634286572117174
+      Img_DiscoBall_3_25: 7197399968881307001
+      Img_DiscoBall_3_26: -2458885477788554919
+      Img_DiscoBall_3_27: 4395455335752188679
+      Img_DiscoBall_3_28: 4920340906423538151
+      Img_DiscoBall_3_29: -643353151469391705
+      Img_DiscoBall_3_3: 3907634277923641034
+      Img_DiscoBall_3_30: -10965208698674362
+      Img_DiscoBall_3_31: -3309942042202493612
+      Img_DiscoBall_3_32: 4743215583983775458
+      Img_DiscoBall_3_33: 5917190716483194129
+      Img_DiscoBall_3_34: -7670737010171437271
+      Img_DiscoBall_3_35: -1615831983594612541
+      Img_DiscoBall_3_36: 1025507764956674700
+      Img_DiscoBall_3_37: 8196343947178551932
+      Img_DiscoBall_3_38: 984904023179128906
+      Img_DiscoBall_3_39: 3917793352776008072
+      Img_DiscoBall_3_4: 4097858541052428192
+      Img_DiscoBall_3_40: 7103209717402047774
+      Img_DiscoBall_3_41: 1926309442522594768
+      Img_DiscoBall_3_42: 4427946782972303317
+      Img_DiscoBall_3_43: 9189300057512360971
+      Img_DiscoBall_3_44: 3886915292789756999
+      Img_DiscoBall_3_45: -5323126620218257011
+      Img_DiscoBall_3_46: -3329323478955748866
+      Img_DiscoBall_3_47: 353667256565533829
+      Img_DiscoBall_3_5: 1295213885626664962
+      Img_DiscoBall_3_6: -9214952012430950520
+      Img_DiscoBall_3_7: -1420984553664448210
+      Img_DiscoBall_3_8: -6756397372440498678
+      Img_DiscoBall_3_9: -9086574153186746502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

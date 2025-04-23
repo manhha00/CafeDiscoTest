@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 15df423f45e632c4383c3ece77517fd2
+guid: 2ee9085ca1c6f484988c07aae205c1ba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 795452838203111171
-    second: Text_MainEvent_0
-  - first:
-      213: 3165526506109367257
-    second: Text_MainEvent_1
-  - first:
-      213: 4919405735206372555
-    second: Text_MainEvent_2
+      213: 3357720156321193674
+    second: Img_Circle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Text_MainEvent_0
+      name: Img_Circle_0
       rect:
         serializedVersion: 2
         x: 1
-        y: 0
-        width: 261
-        height: 83
+        y: 1
+        width: 126
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3073ca054240a0b00800000000000000
-      internalID: 795452838203111171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Text_MainEvent_1
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 0
-        width: 251
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d37bbbe5953eeb20800000000000000
-      internalID: 3165526506109367257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Text_MainEvent_2
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 0
-        width: 453
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc4cef8b37d354440800000000000000
-      internalID: 4919405735206372555
+      spriteID: ace91b431b4099e20800000000000000
+      internalID: 3357720156321193674
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Text_MainEvent_0: 795452838203111171
-      Text_MainEvent_1: 3165526506109367257
-      Text_MainEvent_2: 4919405735206372555
+      Img_Circle_0: 3357720156321193674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
