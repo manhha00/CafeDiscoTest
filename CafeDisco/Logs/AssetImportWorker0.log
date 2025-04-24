@@ -1823,3 +1823,11 @@ Received Import Request.
 Start importing Assets/Animations/Assets/MainMenu/Prefabs/Fx_DiscoCompletion_All.prefab using Guid(943cb85d0a6d05e44a46021a640212f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8c5277bbcbca6f13b9cbd72ab1d1f20') in 0.4298847 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 157
 
+========================================================================
+Received Import Request.
+  Time since last request: 847.110231 seconds.
+  path: Assets/Animations/Assets/MainMenu/Prefabs/Fx_DiscoCompletion_Confetti.prefab
+  artifactKey: Guid(f955cf75e3a2c4e40bfc83d3c93aa587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Assets/MainMenu/Prefabs/Fx_DiscoCompletion_Confetti.prefab using Guid(f955cf75e3a2c4e40bfc83d3c93aa587) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3a3b8f3f2d3d0fd14d4f91d545fc7c9') in 0.0098907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
