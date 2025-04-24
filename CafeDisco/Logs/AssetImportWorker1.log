@@ -15,7 +15,7 @@ E:/project/CafeDisco/CafeDisco
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-54301
+56435
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,18 +59,18 @@ E:/project/CafeDisco/CafeDisco
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [28512]  Target information:
+Player connection [33804]  Target information:
 
-Player connection [28512]  * "[IP] 192.168.2.113 [Port] 0 [Flags] 2 [Guid] 1375219365 [EditorId] 1375219365 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [33804]  * "[IP] 192.168.2.113 [Port] 0 [Flags] 2 [Guid] 2077789170 [EditorId] 2077789170 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28512]  * "[IP] 127.0.2.2 [Port] 0 [Flags] 2 [Guid] 1375219365 [EditorId] 1375219365 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [33804]  * "[IP] 127.0.2.2 [Port] 0 [Flags] 2 [Guid] 2077789170 [EditorId] 2077789170 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28512]  * "[IP] 127.0.2.3 [Port] 0 [Flags] 2 [Guid] 1375219365 [EditorId] 1375219365 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [33804]  * "[IP] 127.0.2.3 [Port] 0 [Flags] 2 [Guid] 2077789170 [EditorId] 2077789170 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28512]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 1375219365 [EditorId] 1375219365 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [33804]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 2077789170 [EditorId] 2077789170 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28512] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [28512] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [33804] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [33804] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -82,7 +82,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 1.94 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.43f1 (97272b72f107)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Resources/UnitySubsystems
@@ -98,46 +98,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.003623 seconds.
-- Loaded All Assemblies, in  0.359 seconds
+Registered in 0.003488 seconds.
+- Loaded All Assemblies, in  0.317 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 261 ms
+Android Extension - Scanning For ADB Devices 2161 ms
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.574 seconds
-Domain Reload Profiling: 931ms
-	BeginReloadAssembly (125ms)
+- Finished resetting the current domain, in  2.458 seconds
+Domain Reload Profiling: 2774ms
+	BeginReloadAssembly (112ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (34ms)
+	RebuildCommonClasses (31ms)
 	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (47ms)
-	LoadAllAssembliesAndSetupDomain (141ms)
-		LoadAssemblies (123ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (120ms)
+		LoadAssemblies (110ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (138ms)
-			TypeCache.Refresh (136ms)
-				TypeCache.ScanAssembly (125ms)
+		AnalyzeDomain (117ms)
+			TypeCache.Refresh (116ms)
+				TypeCache.ScanAssembly (106ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (574ms)
+	FinalizeReload (2459ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (534ms)
+		SetupLoadedEditorAssemblies (2421ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (341ms)
+			InitializePlatformSupportModulesInManaged (2235ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (45ms)
-			ProcessInitializeOnLoadAttributes (96ms)
-			ProcessInitializeOnLoadMethodAttributes (49ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -146,8 +146,8 @@ Domain Reload Profiling: 931ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.719 seconds
-Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
+- Loaded All Assemblies, in  0.684 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
@@ -166,250 +166,1484 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 [./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
 
-Asset Pipeline Refresh (id=2d3687be2183c234b8678601c6c0ba8d): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=709d8722de63655429f2bd9c5110eb87): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.743 seconds
-Domain Reload Profiling: 1460ms
-	BeginReloadAssembly (153ms)
+- Finished resetting the current domain, in  0.665 seconds
+Domain Reload Profiling: 1344ms
+	BeginReloadAssembly (151ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (6ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (28ms)
-	RebuildCommonClasses (32ms)
-	RebuildNativeTypeToScriptingClass (10ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (9ms)
 	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (487ms)
-		LoadAssemblies (337ms)
+	LoadAllAssembliesAndSetupDomain (455ms)
+		LoadAssemblies (292ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (241ms)
-			TypeCache.Refresh (174ms)
-				TypeCache.ScanAssembly (156ms)
-			BuildScriptInfoCaches (54ms)
+		AnalyzeDomain (246ms)
+			TypeCache.Refresh (179ms)
+				TypeCache.ScanAssembly (162ms)
+			BuildScriptInfoCaches (53ms)
 			ResolveRequiredComponents (10ms)
-	FinalizeReload (744ms)
+	FinalizeReload (665ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (599ms)
+		SetupLoadedEditorAssemblies (539ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (11ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (114ms)
-			ProcessInitializeOnLoadAttributes (344ms)
-			ProcessInitializeOnLoadMethodAttributes (121ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (312ms)
+			ProcessInitializeOnLoadMethodAttributes (109ms)
 			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (5ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 1.37 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 281 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 6925 unused Assets / (8.6 MB). Loaded Objects now: 7651.
-Memory consumption went from 211.3 MB to 202.7 MB.
-Total: 10.246400 ms (FindLiveObjects: 0.733300 ms CreateObjectMapping: 0.396400 ms MarkObjects: 4.882000 ms  DeleteObjects: 4.233900 ms)
+Memory consumption went from 211.4 MB to 202.8 MB.
+Total: 9.598500 ms (FindLiveObjects: 0.791100 ms CreateObjectMapping: 0.364000 ms MarkObjects: 4.549900 ms  DeleteObjects: 3.892900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 84748.781520 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_3.png
-  artifactKey: Guid(f8ca0a26ac1f07b499d0205b49940b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_3.png using Guid(f8ca0a26ac1f07b499d0205b49940b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46b905b7264c15acfd69609b5f6b29e1') in 0.2379215 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 50
+  Time since last request: 186141.103771 seconds.
+  path: Assets/Animations/Assets/MainMenu/Untitled
+  artifactKey: Guid(84f86de5649a1e94785915ca05b64e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Assets/MainMenu/Untitled using Guid(84f86de5649a1e94785915ca05b64e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'caf698d3a26f3ec30b187cc9cce97c30') in 0.0053642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
-Received Import Request.
-  Time since last request: 377.670091 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_0.png
-  artifactKey: Guid(ba7c8be6077919f41b203b33e178aba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_0.png using Guid(ba7c8be6077919f41b203b33e178aba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a08becbb5c31905d987f5ed086b934e8') in 0.0708007 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.623 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=8936d3f48ba42664ab389cf0f71b5850): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.673 seconds
+Domain Reload Profiling: 1296ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (367ms)
+		LoadAssemblies (289ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (141ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (673ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (505ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (304ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.19 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.9 MB). Loaded Objects now: 7656.
+Memory consumption went from 172.8 MB to 163.9 MB.
+Total: 9.498300 ms (FindLiveObjects: 0.800600 ms CreateObjectMapping: 0.377800 ms MarkObjects: 4.426200 ms  DeleteObjects: 3.892700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_Mask.png
-  artifactKey: Guid(b8084a5921b946b42ab42c6514eb2ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_Mask.png using Guid(b8084a5921b946b42ab42c6514eb2ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd76bf4898412b454d13b1dad93282e8b') in 0.0214419 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.621 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=f2c17953da03dbb4fa96544a0dd79376): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.657 seconds
+Domain Reload Profiling: 1278ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (371ms)
+		LoadAssemblies (280ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (173ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (153ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (657ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (482ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (301ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.8 MB). Loaded Objects now: 7658.
+Memory consumption went from 172.8 MB to 164.0 MB.
+Total: 9.215700 ms (FindLiveObjects: 0.719400 ms CreateObjectMapping: 0.345100 ms MarkObjects: 4.317600 ms  DeleteObjects: 3.832900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Up_2.png
-  artifactKey: Guid(ee02bf5de93a254428508a15bc6fa9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Up_2.png using Guid(ee02bf5de93a254428508a15bc6fa9b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b1b704b1d2353c3e54037c559647aa8') in 0.0403778 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.636 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=1d990e6d4aaf9e248b19cbced9874b8c): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.648 seconds
+Domain Reload Profiling: 1284ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (381ms)
+		LoadAssemblies (302ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (164ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (144ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (649ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (485ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (299ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.5 MB). Loaded Objects now: 7660.
+Memory consumption went from 172.8 MB to 163.3 MB.
+Total: 11.834300 ms (FindLiveObjects: 0.757600 ms CreateObjectMapping: 0.873400 ms MarkObjects: 4.924800 ms  DeleteObjects: 5.277700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Bot_1.png
-  artifactKey: Guid(442aa2119c512c140817198f6edc8205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Bot_1.png using Guid(442aa2119c512c140817198f6edc8205) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc0d40e7cf862d485dd2937a37c075e4') in 0.0440707 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.632 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=f55c25972f74c774e9642e0abe460143): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.668 seconds
+Domain Reload Profiling: 1300ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (384ms)
+		LoadAssemblies (291ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (176ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (157ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (668ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (492ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (302ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.1 MB). Loaded Objects now: 7662.
+Memory consumption went from 172.8 MB to 163.7 MB.
+Total: 9.953500 ms (FindLiveObjects: 0.735600 ms CreateObjectMapping: 0.378200 ms MarkObjects: 4.597900 ms  DeleteObjects: 4.241300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 15530.653900 seconds.
-  path: Assets/Animations/Assets/Images/All/Common/Img_Ring_2.png
-  artifactKey: Guid(bce86bc79a9106e4aafc12cf048583fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Common/Img_Ring_2.png using Guid(bce86bc79a9106e4aafc12cf048583fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fb3ff7bfe622606653a99682e5b726d') in 0.0581196 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.619 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=3a80440dd3180cf4591148a088b73108): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.646 seconds
+Domain Reload Profiling: 1266ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (374ms)
+		LoadAssemblies (287ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (168ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (149ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (647ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.3 MB). Loaded Objects now: 7664.
+Memory consumption went from 172.8 MB to 163.6 MB.
+Total: 11.802300 ms (FindLiveObjects: 0.879800 ms CreateObjectMapping: 0.596700 ms MarkObjects: 5.458700 ms  DeleteObjects: 4.866000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/Animations/Assets/Images/All/Common/Img_Ring_3.png
-  artifactKey: Guid(4411e7ab11cea7e4dbcd72b4009e8d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Common/Img_Ring_3.png using Guid(4411e7ab11cea7e4dbcd72b4009e8d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1215f90e05ac54e31ee791978fb818ed') in 0.0655118 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.624 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=a1a61b2562bfea34eb2a2efbe58c42a0): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.666 seconds
+Domain Reload Profiling: 1291ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (373ms)
+		LoadAssemblies (280ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (155ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (667ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (488ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (302ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.7 MB). Loaded Objects now: 7666.
+Memory consumption went from 172.9 MB to 163.2 MB.
+Total: 10.211200 ms (FindLiveObjects: 0.805500 ms CreateObjectMapping: 0.401700 ms MarkObjects: 4.548400 ms  DeleteObjects: 4.455000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 3596.091795 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/Goblin/Images/jar.png
-  artifactKey: Guid(b5a8f539f22481144bbca2066cd06ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/Goblin/Images/jar.png using Guid(b5a8f539f22481144bbca2066cd06ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd4095efcdac8152e2c524ee7ed2d987') in 0.0684429 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.611 seconds
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=f6818acd9e47d5e40834d35c55de9206): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.656 seconds
+Domain Reload Profiling: 1267ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (367ms)
+		LoadAssemblies (290ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (162ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (142ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (656ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (476ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.1 MB). Loaded Objects now: 7668.
+Memory consumption went from 172.8 MB to 163.7 MB.
+Total: 10.162900 ms (FindLiveObjects: 0.776700 ms CreateObjectMapping: 0.383700 ms MarkObjects: 4.848900 ms  DeleteObjects: 4.152900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 1.png
-  artifactKey: Guid(2067b7d7aa435fc418acf061509cfe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 1.png using Guid(2067b7d7aa435fc418acf061509cfe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98e7cea3674c119600dfe5fb8f5f8d44') in 0.017104 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.624 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=7db99be7d1c9b68439b4ccff5dc2a14e): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.659 seconds
+Domain Reload Profiling: 1283ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (379ms)
+		LoadAssemblies (298ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (164ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (142ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (659ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (291ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.8 MB). Loaded Objects now: 7670.
+Memory consumption went from 172.8 MB to 164.0 MB.
+Total: 9.582200 ms (FindLiveObjects: 0.767200 ms CreateObjectMapping: 0.388900 ms MarkObjects: 4.443600 ms  DeleteObjects: 3.981800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 1.png
-  artifactKey: Guid(feca35bd7af86a844b092ba6f412c301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 1.png using Guid(feca35bd7af86a844b092ba6f412c301) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a7e8c0e52691477e6a419e586656794') in 0.0227342 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.706 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=fb251ab10b8a24f4ab43d880a64243e9): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.658 seconds
+Domain Reload Profiling: 1363ms
+	BeginReloadAssembly (212ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (16ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (419ms)
+		LoadAssemblies (324ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (188ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (659ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.2 MB). Loaded Objects now: 7672.
+Memory consumption went from 172.8 MB to 163.6 MB.
+Total: 10.675700 ms (FindLiveObjects: 0.958800 ms CreateObjectMapping: 0.602200 ms MarkObjects: 4.974000 ms  DeleteObjects: 4.139700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_2/Images/Layer 4.png
-  artifactKey: Guid(4df9e5be3a6b1dc4e96ef66d1eef07ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_2/Images/Layer 4.png using Guid(4df9e5be3a6b1dc4e96ef66d1eef07ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8152bdcbfba5a3e3976884e2c4c3b1d') in 0.1508086 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.627 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=844544f17064c594193dad92adc278c0): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.660 seconds
+Domain Reload Profiling: 1287ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (377ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (168ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (148ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (660ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (298ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.1 MB). Loaded Objects now: 7674.
+Memory consumption went from 172.8 MB to 163.7 MB.
+Total: 10.183100 ms (FindLiveObjects: 0.776100 ms CreateObjectMapping: 0.406000 ms MarkObjects: 4.749700 ms  DeleteObjects: 4.250700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 4.png
-  artifactKey: Guid(f79d9aa6b7e35524c9eac47f7b286310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 4.png using Guid(f79d9aa6b7e35524c9eac47f7b286310) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef7c5091ff99f986517b814ad49074a5') in 0.0304708 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.621 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=3422dd17ebc351e4cba07dd4bf2a5db8): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.660 seconds
+Domain Reload Profiling: 1283ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (374ms)
+		LoadAssemblies (290ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (168ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (661ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (485ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (297ms)
+			ProcessInitializeOnLoadMethodAttributes (64ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.2 MB). Loaded Objects now: 7676.
+Memory consumption went from 172.9 MB to 163.7 MB.
+Total: 10.199000 ms (FindLiveObjects: 0.769600 ms CreateObjectMapping: 0.409500 ms MarkObjects: 4.742100 ms  DeleteObjects: 4.276900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.011757 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 5.png
-  artifactKey: Guid(519493925d628e743ac79a3e5e126a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 5.png using Guid(519493925d628e743ac79a3e5e126a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8751921a6d9bedc06e640c6a4e8acdb') in 0.0160611 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.622 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=05faae0dc3c34804992408e703e8ce91): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.658 seconds
+Domain Reload Profiling: 1280ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (370ms)
+		LoadAssemblies (283ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (173ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (152ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (658ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (486ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (294ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.7 MB). Loaded Objects now: 7678.
+Memory consumption went from 172.9 MB to 164.2 MB.
+Total: 9.906900 ms (FindLiveObjects: 0.773900 ms CreateObjectMapping: 0.387700 ms MarkObjects: 4.463300 ms  DeleteObjects: 4.281400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.001146 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 6.png
-  artifactKey: Guid(9b60217b98769b14183258c1b7e6076d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 6.png using Guid(9b60217b98769b14183258c1b7e6076d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d33325eb6fcfe1c3daba0f1d29f817e') in 0.0169033 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.630 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=07a2b172d8e030c43808e7b45b6a6858): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.656 seconds
+Domain Reload Profiling: 1287ms
+	BeginReloadAssembly (191ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (371ms)
+		LoadAssemblies (293ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (148ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (657ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (477ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (284ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.9 MB). Loaded Objects now: 7680.
+Memory consumption went from 172.9 MB to 164.0 MB.
+Total: 10.052000 ms (FindLiveObjects: 0.716800 ms CreateObjectMapping: 0.577900 ms MarkObjects: 4.715400 ms  DeleteObjects: 4.041200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 7.png
-  artifactKey: Guid(1b4233f694594204981f17cb5aeeff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_3/Images/Layer 7.png using Guid(1b4233f694594204981f17cb5aeeff3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0cb34dddd1af6c5ed1bd8006f8f3ebd') in 0.0161448 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.633 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=36b7b89618f3a224c9f84d49c9d57021): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.649 seconds
+Domain Reload Profiling: 1282ms
+	BeginReloadAssembly (194ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (376ms)
+		LoadAssemblies (292ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (169ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (148ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (649ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (484ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.0 MB). Loaded Objects now: 7682.
+Memory consumption went from 172.9 MB to 163.9 MB.
+Total: 9.733500 ms (FindLiveObjects: 0.768500 ms CreateObjectMapping: 0.402600 ms MarkObjects: 4.435100 ms  DeleteObjects: 4.126400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 7.png
-  artifactKey: Guid(c8cf03b9744b83c44a6463197c5de053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MonthlyPass/Images/Layer 7.png using Guid(c8cf03b9744b83c44a6463197c5de053) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd219e4338aed4a0bba03320d9d1db5a') in 0.0166182 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.623 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=31a9ca9269870494ea234c077e73b388): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.648 seconds
+Domain Reload Profiling: 1271ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (366ms)
+		LoadAssemblies (286ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (648ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (484ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (298ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 1.76 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.4 MB). Loaded Objects now: 7684.
+Memory consumption went from 172.9 MB to 163.5 MB.
+Total: 11.431900 ms (FindLiveObjects: 1.040200 ms CreateObjectMapping: 0.583900 ms MarkObjects: 5.163700 ms  DeleteObjects: 4.643000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 3.763944 seconds.
-  path: Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_2/Group 740.png
-  artifactKey: Guid(e1282dd910f109348a11e7f83a4dbec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Archive/Spine/MainIcons/Icon_2/Group 740.png using Guid(e1282dd910f109348a11e7f83a4dbec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aae388c63a1a88954a437e1aea1c735a') in 0.0530883 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.610 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=4188123a3f566654f8325af4676217f1): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.659 seconds
+Domain Reload Profiling: 1271ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (368ms)
+		LoadAssemblies (281ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (166ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (660ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (482ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.0 MB). Loaded Objects now: 7686.
+Memory consumption went from 172.9 MB to 163.9 MB.
+Total: 9.721500 ms (FindLiveObjects: 0.755900 ms CreateObjectMapping: 0.368700 ms MarkObjects: 4.541100 ms  DeleteObjects: 4.054900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.272052 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/Icon_4.png
-  artifactKey: Guid(dc8fde9c52f2b3148b950e95aa9f95a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/Icon_4.png using Guid(dc8fde9c52f2b3148b950e95aa9f95a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '097dab5df4e0c76e414618b52d9d6412') in 0.0732792 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.645 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=18766d73ebfbb144ebc9d3568b76837f): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.646 seconds
+Domain Reload Profiling: 1292ms
+	BeginReloadAssembly (181ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (398ms)
+		LoadAssemblies (288ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (193ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (173ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (646ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (479ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (292ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.8 MB). Loaded Objects now: 7688.
+Memory consumption went from 172.9 MB to 163.0 MB.
+Total: 12.630900 ms (FindLiveObjects: 0.956600 ms CreateObjectMapping: 0.851800 ms MarkObjects: 5.093000 ms  DeleteObjects: 5.728400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 704.434728 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_2.png
-  artifactKey: Guid(2af5c5cc8324c3041ba5b172974e3bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_2.png using Guid(2af5c5cc8324c3041ba5b172974e3bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4e57dc2505cc516bb1eaf5239bca49c') in 0.0144338 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.638 seconds
+Refreshing native plugins compatible for Editor in 1.12 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=1753a68a84a6f114ab9c4f127aa00940): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.652 seconds
+Domain Reload Profiling: 1291ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (390ms)
+		LoadAssemblies (292ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (166ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (653ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (488ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (295ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.9 MB). Loaded Objects now: 7690.
+Memory consumption went from 172.9 MB to 164.0 MB.
+Total: 9.284000 ms (FindLiveObjects: 0.699700 ms CreateObjectMapping: 0.332600 ms MarkObjects: 4.330400 ms  DeleteObjects: 3.920700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_20.png
-  artifactKey: Guid(9ee6dd27b1d41e5419a6a77d4df7fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_20.png using Guid(9ee6dd27b1d41e5419a6a77d4df7fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ee104571a469e10ff9925f3e58b304c') in 0.0152124 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.614 seconds
+Refreshing native plugins compatible for Editor in 1.08 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=2d064775b233eb6418388619cf6b3b7a): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.644 seconds
+Domain Reload Profiling: 1259ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (368ms)
+		LoadAssemblies (284ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (165ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (145ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (644ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (483ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (292ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.8 MB). Loaded Objects now: 7692.
+Memory consumption went from 172.9 MB to 164.1 MB.
+Total: 10.828100 ms (FindLiveObjects: 0.794600 ms CreateObjectMapping: 0.385500 ms MarkObjects: 5.009600 ms  DeleteObjects: 4.637300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_Claim_2.png
-  artifactKey: Guid(7f9943ec9118fb444b7af87095091f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_Claim_2.png using Guid(7f9943ec9118fb444b7af87095091f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63dd372171af5081d3f885d3f4d03268') in 0.014642 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.620 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=3ab1bad5fd03f6b41bc36dd7ea6af98b): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.662 seconds
+Domain Reload Profiling: 1283ms
+	BeginReloadAssembly (182ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (374ms)
+		LoadAssemblies (286ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (154ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (662ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (487ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (287ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (8.9 MB). Loaded Objects now: 7694.
+Memory consumption went from 172.9 MB to 164.0 MB.
+Total: 10.950700 ms (FindLiveObjects: 0.820000 ms CreateObjectMapping: 0.420800 ms MarkObjects: 5.505000 ms  DeleteObjects: 4.204200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_X1.png
-  artifactKey: Guid(b8f3d3260e8ba0b4a91da8659373063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_X1.png using Guid(b8f3d3260e8ba0b4a91da8659373063a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5696be806cc89904e5858c93a1054b37') in 0.0278214 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.613 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=93feaea3d00afb744886f6ae85455a16): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.675 seconds
+Domain Reload Profiling: 1288ms
+	BeginReloadAssembly (178ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (370ms)
+		LoadAssemblies (284ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (147ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (675ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (496ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (297ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.1 MB). Loaded Objects now: 7696.
+Memory consumption went from 172.9 MB to 163.8 MB.
+Total: 10.003100 ms (FindLiveObjects: 0.803500 ms CreateObjectMapping: 0.430300 ms MarkObjects: 4.491200 ms  DeleteObjects: 4.277300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_x2.png
-  artifactKey: Guid(d169f0028a367034196543875bb236f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_x2.png using Guid(d169f0028a367034196543875bb236f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc9ab70fe9e0ef29fea1656e87a00fe1') in 0.0388969 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.626 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_X1_0.png
-  artifactKey: Guid(64b2d21e60bb24f408e5355bb7484e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_X1_0.png using Guid(64b2d21e60bb24f408e5355bb7484e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c76ec0fde0ad41fae14ba818b84eb47b') in 0.0177326 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Text/Text_x3.png
-  artifactKey: Guid(99e3905c02aa1aa4ea3c0d765c4d9130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Text/Text_x3.png using Guid(99e3905c02aa1aa4ea3c0d765c4d9130) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bc875c6feaa64029e523031f1138b03') in 0.017735 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Asset Pipeline Refresh (id=43f7de7880b50d34fa130f55c7737c7a): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.643 seconds
+Domain Reload Profiling: 1269ms
+	BeginReloadAssembly (180ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (381ms)
+		LoadAssemblies (284ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (176ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (157ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (643ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (479ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (293ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.1 MB). Loaded Objects now: 7698.
+Memory consumption went from 172.9 MB to 163.8 MB.
+Total: 10.242300 ms (FindLiveObjects: 0.801700 ms CreateObjectMapping: 0.449800 ms MarkObjects: 4.643600 ms  DeleteObjects: 4.346700 ms)
 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Prepare: number of updated asset objects reloaded= 0
