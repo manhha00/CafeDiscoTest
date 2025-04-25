@@ -15,7 +15,7 @@ E:/project/CafeDisco/CafeDisco
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54301
+65300
 -job-worker-count
 5
 -background-job-worker-count
@@ -59,18 +59,12 @@ E:/project/CafeDisco/CafeDisco
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23944]  Target information:
+Player connection [1928]  Target information:
 
-Player connection [23944]  * "[IP] 192.168.2.113 [Port] 0 [Flags] 2 [Guid] 1584590457 [EditorId] 1584590457 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [1928]  * "[IP] 192.168.2.113 [Port] 0 [Flags] 2 [Guid] 3985503230 [EditorId] 3985503230 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [23944]  * "[IP] 127.0.2.2 [Port] 0 [Flags] 2 [Guid] 1584590457 [EditorId] 1584590457 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [23944]  * "[IP] 127.0.2.3 [Port] 0 [Flags] 2 [Guid] 1584590457 [EditorId] 1584590457 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [23944]  * "[IP] 172.16.0.2 [Port] 0 [Flags] 2 [Guid] 1584590457 [EditorId] 1584590457 [Version] 1048832 [Id] WindowsEditor(7,NGOCHA-Computer) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
-
-Player connection [23944] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [23944] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [1928] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [1928] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -82,7 +76,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 2.10 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.43f1 (97272b72f107)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Resources/UnitySubsystems
@@ -98,46 +92,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.43f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.003548 seconds.
-- Loaded All Assemblies, in  0.345 seconds
+Registered in 0.004111 seconds.
+- Loaded All Assemblies, in  0.337 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 256 ms
+Android Extension - Scanning For ADB Devices 227 ms
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.567 seconds
-Domain Reload Profiling: 910ms
+- Finished resetting the current domain, in  0.544 seconds
+Domain Reload Profiling: 879ms
 	BeginReloadAssembly (118ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (33ms)
+	RebuildCommonClasses (31ms)
 	RebuildNativeTypeToScriptingClass (10ms)
 	initialDomainReloadingComplete (47ms)
-	LoadAllAssembliesAndSetupDomain (135ms)
-		LoadAssemblies (116ms)
+	LoadAllAssembliesAndSetupDomain (128ms)
+		LoadAssemblies (115ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (131ms)
-			TypeCache.Refresh (130ms)
-				TypeCache.ScanAssembly (119ms)
+		AnalyzeDomain (125ms)
+			TypeCache.Refresh (123ms)
+				TypeCache.ScanAssembly (112ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (568ms)
+	FinalizeReload (545ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (527ms)
+		SetupLoadedEditorAssemblies (504ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (334ms)
+			InitializePlatformSupportModulesInManaged (301ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (41ms)
-			ProcessInitializeOnLoadAttributes (100ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (105ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -146,7 +140,7 @@ Domain Reload Profiling: 910ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.713 seconds
+- Loaded All Assemblies, in  0.706 seconds
 Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
@@ -166,114 +160,213 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 [./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
 
-Asset Pipeline Refresh (id=2cecfd3ad59df88458a2fc28f68d1f36): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=67ea575511883cf44926044854440f58): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.751 seconds
-Domain Reload Profiling: 1461ms
-	BeginReloadAssembly (154ms)
+- Finished resetting the current domain, in  0.708 seconds
+Domain Reload Profiling: 1411ms
+	BeginReloadAssembly (157ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (30ms)
-	RebuildCommonClasses (31ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (479ms)
-		LoadAssemblies (328ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (470ms)
+		LoadAssemblies (321ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
 		AnalyzeDomain (241ms)
-			TypeCache.Refresh (173ms)
+			TypeCache.Refresh (175ms)
 				TypeCache.ScanAssembly (158ms)
-			BuildScriptInfoCaches (55ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (751ms)
+			BuildScriptInfoCaches (52ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (708ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (600ms)
+		SetupLoadedEditorAssemblies (576ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (10ms)
+			InitializePlatformSupportModulesInManaged (11ms)
 			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (116ms)
-			ProcessInitializeOnLoadAttributes (346ms)
-			ProcessInitializeOnLoadMethodAttributes (119ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (329ms)
+			ProcessInitializeOnLoadMethodAttributes (117ms)
 			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (5ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 1.46 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.01 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 281 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6925 unused Assets / (8.8 MB). Loaded Objects now: 7651.
-Memory consumption went from 211.4 MB to 202.7 MB.
-Total: 9.828400 ms (FindLiveObjects: 0.907700 ms CreateObjectMapping: 0.601500 ms MarkObjects: 4.620400 ms  DeleteObjects: 3.698200 ms)
+Unloading 6925 unused Assets / (8.9 MB). Loaded Objects now: 7651.
+Memory consumption went from 211.2 MB to 202.3 MB.
+Total: 9.383400 ms (FindLiveObjects: 0.715300 ms CreateObjectMapping: 0.377200 ms MarkObjects: 4.547000 ms  DeleteObjects: 3.743100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 84836.144013 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_3.png
-  artifactKey: Guid(f8ca0a26ac1f07b499d0205b49940b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_3.png using Guid(f8ca0a26ac1f07b499d0205b49940b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2508a7f2803eb5c7ac35d7ffe940ecc2') in 0.1038423 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+  Time since last request: 259860.565457 seconds.
+  path: Assets/Animations/Assets/FrozenUI
+  artifactKey: Guid(9b4695434b8f6724b9b69c15a21e16c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Assets/FrozenUI using Guid(9b4695434b8f6724b9b69c15a21e16c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16e4546f784bbe54edd346de02f101dc') in 0.005087 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
-Received Import Request.
-  Time since last request: 212.953413 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_4.png
-  artifactKey: Guid(a25581cfb4d703743808ec29c60d8c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_4.png using Guid(a25581cfb4d703743808ec29c60d8c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb9182d6cdb5d961281e1250b13bddc7') in 0.0919397 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 49 unused Assets / (4.3 MB). Loaded Objects now: 7653.
+Memory consumption went from 164.9 MB to 160.5 MB.
+Total: 6.365300 ms (FindLiveObjects: 0.411400 ms CreateObjectMapping: 0.145600 ms MarkObjects: 4.256900 ms  DeleteObjects: 1.550800 ms)
 
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.619 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Assertion failed on expression: '!AssetDatabase::IsAssetImportWorkerProcess()'
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Coffee.UIEffectInternal.CgincPathSync:UpdateTmpCgincPath () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:51)
+Coffee.UIEffectInternal.CgincPathSync:RegisterShaders (string,string[]) (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs:20)
+Coffee.UIEffects.UIEffectProjectSettings:InitializeOnLoadMethod () (at ./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/UIEffectProjectSettings.cs:131)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+[./Library/PackageCache/com.coffee.ui-effect@38e4b0a26404/Runtime/Internal/Utilities/CgincPathSync.cs line 51]
+
+Asset Pipeline Refresh (id=88701a8ccd39cfd4e821126d3bc5d9e9): Total: 0.000 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.669 seconds
+Domain Reload Profiling: 1288ms
+	BeginReloadAssembly (188ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (362ms)
+		LoadAssemblies (280ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (165ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (145ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (669ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (495ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (301ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6924 unused Assets / (9.0 MB). Loaded Objects now: 7656.
+Memory consumption went from 172.6 MB to 163.5 MB.
+Total: 9.503000 ms (FindLiveObjects: 0.839800 ms CreateObjectMapping: 0.513500 ms MarkObjects: 4.175800 ms  DeleteObjects: 3.973300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Import Request.
-  Time since last request: 4.125324 seconds.
-  path: Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_4.png
-  artifactKey: Guid(a25581cfb4d703743808ec29c60d8c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/MainMenu/MainMenu/DiscoBall/Img_DiscoBall_4.png using Guid(a25581cfb4d703743808ec29c60d8c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '990846bbe7bc8bd41fc6a06a6c20c7f3') in 0.1260494 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+  Time since last request: 243.737579 seconds.
+  path: Assets/Animations/Assets/MainMenu/Icon_Spine/MainIcon_BuildZBiz_SkeletonData.asset
+  artifactKey: Guid(509685779bf7eb04383266ee85b91f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Assets/MainMenu/Icon_Spine/MainIcon_BuildZBiz_SkeletonData.asset using Guid(509685779bf7eb04383266ee85b91f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)`Assets/Animations/Assets/All/Mid/Characters/Spine/Goblin/Img_Char_Goblin.png` and material `Img_Char_Goblin_Material.mat` : Problematic Texture / Material Settings found: It is recommended to disable `Alpha Is Transparency` on `Premultiply alpha` textures.
+Assuming `Premultiply alpha` texture because `Straight Alpha Texture` is disabled at material). (You can disable this warning in `Edit - Preferences - Spine`)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Spine.Unity.Editor.SpineEditorUtilities:IssueWarningsForUnrecommendedTextureSettings (string) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:357)
+Spine.Unity.Editor.SpineEditorUtilities:IssueWarningsForUnrecommendedTextureSettings () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:258)
+Spine.Unity.Editor.SpineEditorUtilities:Initialize () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:237)
+Spine.Unity.Editor.SpineEditorUtilities:ConfirmInitialization () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:245)
+Spine.Unity.Editor.SkeletonDataAssetInspector:InitializeEditor () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:105)
+Spine.Unity.Editor.SkeletonDataAssetInspector:OnEnable () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:84)
+UnityEditor.Editor:CreateEditorWithContextInternal (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditorWithContext (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
 
-========================================================================
-Received Import Request.
-  Time since last request: 44.408293 seconds.
-  path: Assets/Animations/Assets/Materials/Mt_UI_TextureDiscoBall.mat
-  artifactKey: Guid(1294c96673761334589e3c11760f3bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Materials/Mt_UI_TextureDiscoBall.mat using Guid(1294c96673761334589e3c11760f3bac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd59b4cb780c10d8ebfba77236291af22') in 0.3714307 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+(Filename: D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs Line: 357)
 
-========================================================================
-Received Import Request.
-  Time since last request: 28.405996 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock.png
-  artifactKey: Guid(8ec6d95d93d67324496cd9686842e91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock.png using Guid(8ec6d95d93d67324496cd9686842e91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57c5eb4e80105ed6335ab583b9efeb89') in 0.0176435 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+`Assets/Animations/Assets/All/Mid/Characters/Spine/Pirate/Img_Char_Pirate.png` and material `Img_Char_Pirate_Material.mat` : Problematic Texture / Material Settings found: It is recommended to disable `Alpha Is Transparency` on `Premultiply alpha` textures.
+Assuming `Premultiply alpha` texture because `Straight Alpha Texture` is disabled at material). (You can disable this warning in `Edit - Preferences - Spine`)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object,UnityEngine.Object)
+UnityEngine.Debug:LogWarning (object,UnityEngine.Object)
+Spine.Unity.Editor.SpineEditorUtilities:IssueWarningsForUnrecommendedTextureSettings (string) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:357)
+Spine.Unity.Editor.SpineEditorUtilities:IssueWarningsForUnrecommendedTextureSettings () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:258)
+Spine.Unity.Editor.SpineEditorUtilities:Initialize () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:237)
+Spine.Unity.Editor.SpineEditorUtilities:ConfirmInitialization () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs:245)
+Spine.Unity.Editor.SkeletonDataAssetInspector:InitializeEditor () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:105)
+Spine.Unity.Editor.SkeletonDataAssetInspector:OnEnable () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:84)
+UnityEditor.Editor:CreateEditorWithContextInternal (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditorWithContext (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Up_1.png
-  artifactKey: Guid(535f987ba7be6094aa32c1c40723c21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Up_1.png using Guid(535f987ba7be6094aa32c1c40723c21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0aef88544f0c5b6d5f7cc5357182dc3') in 0.0415163 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+(Filename: D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/SpineEditorUtilities.cs Line: 357)
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Bot_2.png
-  artifactKey: Guid(106c3bc6df36b3c4ca8ea6cf733a5940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Bot_2.png using Guid(106c3bc6df36b3c4ca8ea6cf733a5940) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '759cb9796b4842d1ca10c7973468dc13') in 0.0198173 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+Problematic material setup at Spine GameObject (MainIcon_BuildZBiz): 
+Warning: Premultiply-alpha atlas textures not supported in Linear color space!You can use a straight alpha texture with 'PMA Vertex Color' by choosing blend mode 'PMA Vertex, Straight Texture'.
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Poc.png
-  artifactKey: Guid(eb1165bdc9a6f9a43a8cb339d3204c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Assets/Images/All/Mid/package/Lock/Img_Lock_Poc.png using Guid(eb1165bdc9a6f9a43a8cb339d3204c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69d1489f36e055d107439cf88f5f34fe') in 0.0542122 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+If you have a PMA Texture, please
+a) re-export atlas as straight alpha texture with 'premultiply alpha' unchecked
+   (if you have already done this, please set the 'Straight Alpha Texture' Material parameter to 'true') or
+b) switch to Gamma color space via
+Project Settings - Player - Other Settings - Color Space.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Debug:LogWarningFormat (UnityEngine.Object,string,object[])
+Spine.Unity.SkeletonRenderer:Initialize (bool,bool) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderer.cs:515)
+Spine.Unity.SkeletonAnimation:Initialize (bool,bool) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Runtime/spine-unity/Components/SkeletonAnimation.cs:189)
+Spine.Unity.Editor.EditorInstantiation:InstantiateSkeletonAnimation (Spine.Unity.SkeletonDataAsset,Spine.Skin,bool,bool) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/AssetUtility.cs:1405)
+Spine.Unity.Editor.EditorInstantiation:InstantiateSkeletonAnimation (Spine.Unity.SkeletonDataAsset,string,bool,bool) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Utility/AssetUtility.cs:1375)
+Spine.Unity.Editor.SkeletonInspectorPreview:Initialize (System.Action,Spine.Unity.SkeletonDataAsset,string) (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:869)
+Spine.Unity.Editor.SkeletonDataAssetInspector:InitializeEditor () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:150)
+Spine.Unity.Editor.SkeletonDataAssetInspector:OnEnable () (at D:/projects/CafeDisco/CafeDisco/Assets/Spine/Editor/spine-unity/Editor/Asset Types/SkeletonDataAssetInspector.cs:84)
+UnityEditor.Editor:CreateEditorWithContextInternal (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditorWithContext (UnityEngine.Object[],UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object,System.Type)
+UnityEditor.Editor:CreateEditor (UnityEngine.Object)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+(Filename: D:/projects/CafeDisco/CafeDisco/Assets/Spine/Runtime/spine-unity/Components/SkeletonRenderer.cs Line: 515)
+
+ -> (artifact id: '9db0b8a5e9b074eef46a731221c84b9f') in 0.6070483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 61
+

@@ -1,0 +1,7 @@
+MainIcon_MonthlyPassIcon2_Banner.png
+size:512,128
+filter:Linear,Linear
+Layer 7
+bounds:133,6,125,92
+Layer 8
+bounds:2,2,129,96

@@ -1,24 +1,19 @@
 MainIcon_MonthlyPassIcon.png
-size:1024,512
+size:1024,256
 filter:Linear,Linear
 Img4
-bounds:440,292,178,179
+bounds:651,26,178,179
+rotate:90
 Layer 1
-bounds:198,93,98,103
+bounds:399,2,98,103
+rotate:90
 Layer 10
-bounds:2,2,194,194
+bounds:2,10,194,194
 Layer 2
-bounds:800,221,250,102
-rotate:90
+bounds:399,102,250,102
 Layer 3
-bounds:274,272,164,199
+bounds:198,40,164,199
+rotate:90
 Layer 4
-bounds:620,292,178,179
-Layer 7
-bounds:904,215,125,92
+bounds:832,26,178,179
 rotate:90
-Layer 8
-bounds:904,342,129,96
-rotate:90
-Layer 9
-bounds:2,198,270,273
