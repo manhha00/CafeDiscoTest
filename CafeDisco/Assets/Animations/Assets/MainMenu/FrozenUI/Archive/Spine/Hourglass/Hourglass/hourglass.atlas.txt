@@ -1,0 +1,14 @@
+hourglass.png
+size:2048,512
+filter:Linear,Linear
+Bot
+bounds:1472,159,492,172
+Hourglass
+bounds:2,2,490,778
+rotate:90
+Up
+bounds:1472,333,538,159
+sand
+bounds:782,26,466,688
+offsets:1,1,470,757
+rotate:90
