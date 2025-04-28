@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UIbtn_0: 6089634440864697663
+      UIbtn_1: -28309046786136420
+      UIbtn_2: -1688143013957558943
+      UIbtn_3: 101892009658465485
+      UIbtn_4: -9111506310774038657
+      UIbtn_5: -7957161920972000870
+      UIbtn_6: 1526484496305703416
+      UIbtn_7: 2538571735617244991
+      UIbtn_8: -1807107484772869150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

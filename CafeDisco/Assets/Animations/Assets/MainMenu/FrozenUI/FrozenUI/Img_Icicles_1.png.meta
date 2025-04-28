@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Img_Icicles_1_0: 1277479789233000621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Img_Bg_Clock_Frozen_0: 9159462645101898619
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

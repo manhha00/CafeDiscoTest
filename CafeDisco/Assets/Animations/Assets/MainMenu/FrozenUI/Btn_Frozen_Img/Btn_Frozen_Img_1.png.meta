@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Btn_Frozen_Img_1_0: -8464111918130717968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
