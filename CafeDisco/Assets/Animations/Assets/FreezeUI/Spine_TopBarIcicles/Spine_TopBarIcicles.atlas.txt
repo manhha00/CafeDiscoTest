@@ -1,0 +1,10 @@
+Spine_TopBarIcicles.png
+size:2048,512
+filter:Linear,Linear
+Img_Icicles_1
+bounds:2,280,1312,160
+Img_Icicles_2
+bounds:2,2,600,276
+Img_Icicles_3
+bounds:604,33,564,245
+offsets:0,23,564,268
