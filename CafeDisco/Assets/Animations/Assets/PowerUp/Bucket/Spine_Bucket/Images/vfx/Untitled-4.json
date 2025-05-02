@@ -1,0 +1,45 @@
+{ "skeleton": { "images": "E:/project/CafeDisco/CafeDisco/Assets/Animations/Assets/PowerUp/Bucket/Spine_Bucket/Images/vfx/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 15, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 2", "bone": "root" },
+	{ "name": "0", "bone": "root", "attachment": "0" },
+	{ "name": "1", "bone": "root", "attachment": "1" },
+	{ "name": "2", "bone": "root", "attachment": "2" },
+	{ "name": "3", "bone": "root", "attachment": "3" },
+	{ "name": "4", "bone": "root", "attachment": "4" },
+	{ "name": "5", "bone": "root", "attachment": "5" },
+	{ "name": "6", "bone": "root", "attachment": "6" }
+],
+"skins": {
+	"default": {
+		"Layer 2": {
+			"Layer 2": { "x": 400, "y": -140, "width": 830, "height": 310 }
+		},
+		"0": {
+			"0": { "x": 594.5, "y": -148, "width": 397, "height": 274 }
+		},
+		"1": {
+			"1": { "x": 400, "y": -140, "width": 830, "height": 310 }
+		},
+		"2": {
+			"2": { "x": 389, "y": -142.5, "width": 808, "height": 285 }
+		},
+		"3": {
+			"3": { "x": 379.5, "y": -141, "width": 789, "height": 274 }
+		},
+		"4": {
+			"4": { "x": 341, "y": -133.5, "width": 712, "height": 259 }
+		},
+		"5": {
+			"5": { "x": 291, "y": -118, "width": 612, "height": 258 }
+		},
+		"6": {
+			"6": { "x": 285, "y": -119.5, "width": 600, "height": 239 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

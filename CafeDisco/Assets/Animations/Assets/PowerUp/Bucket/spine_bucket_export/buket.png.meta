@@ -1,10 +1,94 @@
 fileFormatVersion: 2
-guid: dd50c692684f1314a9f586204633c691
+guid: 849ac34bd01ba3d48a95058d05436d90
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3954790871949920407
-    second: sand_2_0
+      213: 2350826360447560031
+    second: buket_0
+  - first:
+      213: -4694637565344752704
+    second: buket_1
+  - first:
+      213: 652386136772490163
+    second: buket_2
+  - first:
+      213: 4594895107588677251
+    second: buket_3
+  - first:
+      213: 7306739419027090593
+    second: buket_4
+  - first:
+      213: 4208486652772639022
+    second: buket_5
+  - first:
+      213: 1941626396213470518
+    second: buket_6
+  - first:
+      213: -3135656947170619753
+    second: buket_7
+  - first:
+      213: -8802780445689362853
+    second: buket_8
+  - first:
+      213: 1585628419833348676
+    second: buket_9
+  - first:
+      213: -1278745651201455224
+    second: buket_10
+  - first:
+      213: -1854687556439791493
+    second: buket_11
+  - first:
+      213: 2200236479998339652
+    second: buket_12
+  - first:
+      213: -2553149437352573933
+    second: buket_13
+  - first:
+      213: -5298534534412149867
+    second: buket_14
+  - first:
+      213: -7252777868444009436
+    second: buket_15
+  - first:
+      213: 3571156445557743030
+    second: buket_16
+  - first:
+      213: 634209126060491556
+    second: buket_17
+  - first:
+      213: -455818985040375513
+    second: buket_18
+  - first:
+      213: 3625925998992912959
+    second: buket_19
+  - first:
+      213: 1317125344707378323
+    second: buket_20
+  - first:
+      213: -5058487401993284871
+    second: buket_21
+  - first:
+      213: -7416089779474689534
+    second: buket_22
+  - first:
+      213: 3800362819721436247
+    second: buket_23
+  - first:
+      213: 8330946180394904303
+    second: buket_24
+  - first:
+      213: -3991766764511807724
+    second: buket_25
+  - first:
+      213: 3560842913899746381
+    second: buket_26
+  - first:
+      213: 5958958201283354969
+    second: buket_27
+  - first:
+      213: -6612726170516700298
+    second: buket_28
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -42,7 +126,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -75,7 +159,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -88,7 +172,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -101,7 +185,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -111,29 +195,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: sand_2_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 200
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 967b774c7a2cd19c0800000000000000
-      internalID: -3954790871949920407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
@@ -147,8 +209,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      sand_2_0: -3954790871949920407
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
