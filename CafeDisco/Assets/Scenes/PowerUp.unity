@@ -5288,7 +5288,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 182762104}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -21346,7 +21346,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 816933496}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -31236,7 +31236,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 839859074}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -36205,16 +36205,12 @@ PlayableDirector:
     value: {fileID: 391905976}
   - key: {fileID: 3047339349419275847, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
     value: {fileID: 777402521}
-  - key: {fileID: 9223342904347751674, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
-    value: {fileID: 0}
   - key: {fileID: -151576362152129010, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
     value: {fileID: 958315897}
   - key: {fileID: -9000574866717248769, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
     value: {fileID: 1034478165}
   - key: {fileID: -3824003333051069060, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
     value: {fileID: 1324112611}
-  - key: {fileID: -4017479345819884275, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
-    value: {fileID: 1840359799}
   - key: {fileID: -5746992754983053558, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
     value: {fileID: 777402523}
   - key: {fileID: 6761588557805203367, guid: 69b778316b8262c45918b2f6fa38455f, type: 2}
@@ -36223,6 +36219,7 @@ PlayableDirector:
     value: {fileID: 1350062195}
   m_ExposedReferences:
     m_References:
+    - b65efca207976af419dcc77b1b00ee6e: {fileID: 1324112611}
     - 862cb739b04b04b42aefe1dd4b7436b3: {fileID: 0}
     - 563f32152345c2349ac2444014516bef: {fileID: 8505143451443252455}
     - 549e047c565298346a8709f67bff116d: {fileID: 0}
@@ -36479,7 +36476,7 @@ RectTransform:
   m_GameObject: {fileID: 1034478165}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1777032485}
@@ -36550,7 +36547,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034478165}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -46680,7 +46677,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220316638}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -51630,7 +51627,7 @@ RectTransform:
   m_GameObject: {fileID: 1324112611}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 182762105}
@@ -51698,7 +51695,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1324112611}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -61975,7 +61972,7 @@ ParticleSystemRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1777032484}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
